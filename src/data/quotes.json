@@ -2,34 +2,39 @@
   "qoutes": [
     {
       "id": "Q2",
-      "text": "You have been a source of strength and support for me. I'm glad that you're a part of my life",
+      "text": "You know right how much important you are to me. I make mistakes I am not the perfect guy anyone would seek. ",
       "image": "/images/image-03.webp"
     },
     {
       "id": "Q3",
-      "text": "You make me smile so easily. Can you be there, to do it forever?",
+      "text": "I always make you upset. But in spite of all you are all I want to be with and you are all I think about.",
       "image": "/images/image-02.webp"
     },
     {
       "id": "Q4",
-      "text": "I was alone in life, but when you came into my life, you brought colours with you and painted my life with beautiful colours",
+      "text": "After you entered my life everything has changed. From what I thought about myself to how little things about you make my day.",
       "image": "/images/image-01.webp"
     },
     {
       "id": "Q5",
-      "text": "Your absence is stronger to me than the presence of thousands of other people",
+      "text": "From just doing our jamming sessions on Spotify to phone calls and study sessions and everything makes my day and me happier.",
       "image": "/images/image-07.webp"
     },
     {
       "id": "Q6",
-      "text": "I fell in love with you not for how you look, just for who you are",
+      "text": "You are not with me I can't ask you just to meet me for an ice cream treat or evening walk sessions or hug you when you are upset.",
       "image": "/images/image-06.webp"
-    }
+    },
+    {
+      "id": "Q7",
+      "text": "But consider this gesture as a virtual hug from me. And a token for apology. Please baat karlo mujhse tuhare bina accha nhi lagta",
+      "image": "/images/image-07.webp"
+    },
   ],
   "propose": {
     "id": "finished",
-    "text": "I'm not sure what life could bring you. I'm not sure if dreams do come true. I'm not sure what love can do. But I'm sure about one thing. I love you",
-    "subtext": "That's all I will wait for your reply",
+    "text": "In between all uncertainty I know something which is certain and that is my love for you.I love you and I miss you. A lot. Maaf kardo baby.",
+    "subtext": "That's all I will wait for your call",
     "image": "/images/image-04.webp"
   }
 }
